@@ -1,0 +1,8 @@
+{
+  "name": "pubg ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fc2a5748"
+}
